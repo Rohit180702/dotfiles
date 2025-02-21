@@ -329,6 +329,7 @@ app_array=(
   'com.microsoft.shared'
   'com.microsoft.teams2.helper'
   'com.microsoft.VSCodeInsiders'
+  'com.microsoft.VSCode'
   'com.mitchellh.ghostty'
   'com.parallels.Parallels Desktop'
   'com.qtproject'
