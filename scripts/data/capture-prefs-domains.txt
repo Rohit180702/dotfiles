@@ -103,6 +103,9 @@ com.apple.inputmethod.ironwood
 com.apple.intents.intents-helper
 com.apple.internal.ck
 com.apple.ipTelephony
+com.apple.iWork.Keynote
+com.apple.iWork.Numbers
+com.apple.iWork.Pages
 com.apple.Keyboard-Settings.extension
 com.apple.keyboardservicesd
 com.apple.keychainaccess
@@ -256,6 +259,7 @@ com.bresink.system.tinkertool
 com.cloudflare.1dot1dot1dot1.macos
 com.docker.docker
 com.electron.ollama
+com.exafunction.windsurf
 com.github.Electron
 com.google.Chrome
 com.google.Chrome.beta
